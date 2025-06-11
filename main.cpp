@@ -56,7 +56,3 @@ int main()
 
     return 0;
 }
-
-
-
-// https://gemini.google.com/app/9680aa3879fe1d61
